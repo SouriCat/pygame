@@ -1,0 +1,98 @@
+--> Compétences a avoir :
+Connaissances de base
+Manipulation des données
+Les contrôles d’exécution réguliés
+maîtrise pratique est essentielle
+
+_______________________________________________________
+--> Connaissances de base :
+
+Les concepts fondamentaux (algorithme,
+finitude, modularité, identifiant, constante,
+variable, fonction(renvoit un valeur), procédure(ne renvoit pas de valeur), 
+expression numérique, expression conditionnelle et plus
+généralement booléenne…) seront acquis par
+l’usage
+
+
+Types de variables simples : entier naturel, entier relatif,
+réel,booléen, Peu importe la façon dont les valeurs de vérité
+sont représentées.
+chaîne de caractères
+
+Tableaux à une ou deux dimensions de type
+homogène, tableaux à deux dimensions
+constitués de tableaux à une dimension dont
+les types ne sont pas homogènes
+
+Paramètres d’entrée, valeur(s) retournée(s) par
+une fonction, variables globales ou locales.
+
+________________________________________________________
+--> Manipulation des données :
+
+Affectation, affectation récursive (la variable
+affectée participe à l’expression évaluée).
+Opérateurs numériques : addition, soustraction,
+multiplication, division, exponentiation, quotient
+et reste de la division entière, signes. Fonctions
+mathématiques usuelles.
+Symboles et SOMME, PRODUIT traduction algorithmique. sum(list_int) join (list_char)
+Opérateurs de comparaison : =, <> ou !=, <, <=,
+>, >=
+Opérateurs booléens : non, et, ou, oux
+Opérateurs booléens bit à bit
+
+Opérateurs de chaînes : concaténation.
+Fonctions permettant l’extraction en début,
+milieu ou fin ; la recherche d’un motif.
+
+Transtypage
+Toute autre instruction, fonction ou procédure
+utile aux algorithmes traités
+
+____________________________________________________
+--> Controle d'éxecution
+
+l’exécution séquentielle
+
+Exécution à structure conditionnelle (si-alorssinon),
+
+Exécution à structure itérative déterministe
+(pour) et indéterministe (tant que / répéter
+jusqu’à ce que).
+Méthodologie de construction des structuresitératives :
+raisonnement par récurrence, initialisation, mise à jour itérative et neutralisation des cas
+indésirables, calcul itératif (souvent récursif), mise en forme finale.
+
+
+Structures imbriquées itératives / recursives simples
+
+-----------------------------------------------------
+-----------------------------------------------------
+--> Exemples qui peuvent etre demandés
+
+fonction récursive a transformer en itérative
+Variantes où les notions de complexitétemporelle et de complexité spatiale peuventêtre abordées
+Résolution de code défectueux (effets de bord, évaluation partielle lors de calcul d’expressions booléennes, débordements ou approximations numériques, transtypag
+Algo mal concu a corriger
+Lecture et compréhension d’algorithmes.
+
+
+--> Ce qu'on attend du candidat
+processus de conception
+	compréhension des solutions proposées
+	l’interprétation des algorithmes 
+	leur construction conforme aux prescriptions et convenablement documentée
+	leur transcription dans un langage informatique, 
+	leurmise au point
+	leur validation
+
+
+--> contenu du sujet
+représentation textuelle convenablement indentée avec des indicateurs de début et de fin explicites
+un en-tête composé d’un nom, d’un rôle, de l’indication des données d’entrée et de sortie et de la déclaration typée des données locales
+Les sujets empruntés à la vie courante pourront être utilisés à chaque fois qu’ils permettent d’illustrer
+un mécanisme simple avec pertinence
+
+
